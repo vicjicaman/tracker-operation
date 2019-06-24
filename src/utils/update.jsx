@@ -2,7 +2,7 @@ import _ from 'lodash'
 import {
   status as Status
 } from '../query'
-import * as EventApi from 'Api/system/events'
+import * as EventApi from '@nebulario/tracker-events'
 
 const updateEvent = (operation, cxt) => {
 

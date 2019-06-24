@@ -1,7 +1,7 @@
 import _ from 'lodash'
 import {
   wait
-} from '@nebulario/core-process'
+} from '@nebulario/tracker-process'
 import * as Utils from './utils'
 import {
   status as Status

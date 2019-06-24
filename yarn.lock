@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@nebulario/tracker-events@link:../tracker-events":
+  version "0.0.0"
+  uid ""
+
 "@nebulario/tracker-process@1.70.0-master":
   version "1.70.0-master"
   resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.0-master.tgz#5daa596e0d28001a4551a11ffebb2a4030b28776"
