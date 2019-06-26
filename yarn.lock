@@ -23,6 +23,17 @@
     lodash "^4.17.4"
     uuid "^3.3.2"
 
+"@nebulario/tracker-process@1.70.0-release-pkg-app-prod":
+  version "1.70.0-release-pkg-app-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.0-release-pkg-app-prod.tgz#b4415e33bc31257d0cb4f680ee500522c5370f30"
+  integrity sha512-azevv+hDvEN+D4INp06ifzWhfU01kQBNlJ9FA283bDGgQN1JzfJ2oOwGQ0/oIDySAIsMGDVYeIS1b4xO9GFLeA==
+  dependencies:
+    babel-runtime "^6.26.0"
+    bluebird "^3.5.1"
+    child-process-promise "^2.2.1"
+    lodash "^4.17.4"
+    uuid "^3.3.2"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
