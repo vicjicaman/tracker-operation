@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@nebulario/tracker-events@1.70.2-master":
-  version "1.70.2-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-events/-/tracker-events-1.70.2-master.tgz#f74a67e078bf5ebfdc52c4c583d9835fb9f5658e"
-  integrity sha512-ThkCP/3TEpLlo9HEN5hR1RJq1SypVMeYw8M41hJQaIe7n1uG9kqmRrIWRwlye1w2vcIEP8BE0RA+B0ZsKcOwEw==
+"@nebulario/tracker-events@1.70.3-master":
+  version "1.70.3-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-events/-/tracker-events-1.70.3-master.tgz#a9d5657b0211d7b74f6c5d92e07e3d7ca9636f78"
+  integrity sha512-dqB+LTB4lcWacdvcCsTQ4YzwtEE8NbMFB0fzTS66sFsYy8lBQ/4T95f1Kjswm0EBsUlm/30BksHWtGfi4zeq1g==
   dependencies:
-    "@nebulario/tracker-process" "1.70.2-master"
+    "@nebulario/tracker-process" "1.70.3-master"
     babel-runtime "^6.26.0"
     lodash "^4.17.4"
     uuid "^3.3.2"
 
-"@nebulario/tracker-process@1.70.2-master":
-  version "1.70.2-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.2-master.tgz#452b3de0e25ee993bc4daf4933656c457c75674e"
-  integrity sha512-2/Efdk7IAxWvt+SL8cSE+Cy3h1sVW1B/7PsODmceNxa2bk0UNmAvL/gLKL3Lp8OSZ/ieVUxPMcRIEPGSmOcFKg==
+"@nebulario/tracker-process@1.70.3-master":
+  version "1.70.3-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.3-master.tgz#9ee00be870eeacac83c15da2bbf6e6d964b4a10a"
+  integrity sha512-v2WAERkdyG1urVinykHvsWo/PbaDkh3nFGoRoPFPrjmqBIPt173Ensv9/UsPVaKgP+vcyKbBs/9LTtsdR88qsw==
   dependencies:
     babel-runtime "^6.26.0"
     bluebird "^3.5.1"
