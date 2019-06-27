@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@nebulario/tracker-events@1.70.0-release-pkg-prod":
-  version "1.70.0-release-pkg-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-events/-/tracker-events-1.70.0-release-pkg-prod.tgz#29f99d3563d722690018758e9ffa654bd2ebd2b0"
-  integrity sha512-AWoMydJKxleMsHWN3z0Jbc+L7UIBLEzF/EjD256UOcWnDtmjjBCJ7pdi5C+zs+Ap6yDrkL8Id79r2PCmD8So4w==
+"@nebulario/tracker-events@1.70.2-master":
+  version "1.70.2-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-events/-/tracker-events-1.70.2-master.tgz#f74a67e078bf5ebfdc52c4c583d9835fb9f5658e"
+  integrity sha512-ThkCP/3TEpLlo9HEN5hR1RJq1SypVMeYw8M41hJQaIe7n1uG9kqmRrIWRwlye1w2vcIEP8BE0RA+B0ZsKcOwEw==
   dependencies:
     "@nebulario/tracker-process" "1.70.2-master"
     babel-runtime "^6.26.0"
