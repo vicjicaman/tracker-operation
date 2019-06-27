@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@nebulario/tracker-events@1.70.2-master":
-  version "1.70.2-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-events/-/tracker-events-1.70.2-master.tgz#f74a67e078bf5ebfdc52c4c583d9835fb9f5658e"
-  integrity sha512-ThkCP/3TEpLlo9HEN5hR1RJq1SypVMeYw8M41hJQaIe7n1uG9kqmRrIWRwlye1w2vcIEP8BE0RA+B0ZsKcOwEw==
+"@nebulario/tracker-events@1.70.0-release-public-pkg-prod":
+  version "1.70.0-release-public-pkg-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-events/-/tracker-events-1.70.0-release-public-pkg-prod.tgz#f3e09d4da00c1ed9c40c56a15c9c8638817441ee"
+  integrity sha512-9ePH+XvxdiEzMs4XWz5/DNpoWUrHesq90brJpZMN0ygjdvGWjozPNpTVKLb4K/AaKIWb0FpDoS9CE0RTEY6ICg==
   dependencies:
-    "@nebulario/tracker-process" "1.70.2-master"
+    "@nebulario/tracker-process" "1.70.0-release-public-pkg-prod"
     babel-runtime "^6.26.0"
     lodash "^4.17.4"
     uuid "^3.3.2"
 
-"@nebulario/tracker-process@1.70.2-master":
-  version "1.70.2-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.2-master.tgz#452b3de0e25ee993bc4daf4933656c457c75674e"
-  integrity sha512-2/Efdk7IAxWvt+SL8cSE+Cy3h1sVW1B/7PsODmceNxa2bk0UNmAvL/gLKL3Lp8OSZ/ieVUxPMcRIEPGSmOcFKg==
+"@nebulario/tracker-process@1.70.0-release-public-pkg-prod":
+  version "1.70.0-release-public-pkg-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-process/-/tracker-process-1.70.0-release-public-pkg-prod.tgz#fd52a98342f7f0506f54cd94285b484f4488bd5a"
+  integrity sha512-J03tdgVE3rBT9EaUYoYapNJWAx5ZLpLSkppV/5ZNwpPyuZrKjuMPoKic7bFohx9Zjgf4H4M4Ic8iytm/ZorNoA==
   dependencies:
     babel-runtime "^6.26.0"
     bluebird "^3.5.1"
